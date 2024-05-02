@@ -36,22 +36,22 @@ RULESET:
 - - Telegram
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Telegram.list
 - - G/M
- - https://raw.githubusercontent.com/DustinWin/ruleset_geodata/clash-ruleset/google-cn.list
- - https://ruleset.skk.moe/Clash/non_ip/microsoft.txt
+  - https://raw.githubusercontent.com/DustinWin/ruleset_geodata/clash-ruleset/google-cn.list
+  - https://ruleset.skk.moe/Clash/non_ip/microsoft.txt
 - - X/Meta
- - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
- - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list
- - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
+  - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
+  - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list
+  - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
 - - Spotify
- - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
+  - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
 - - Ads
- - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
+  - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
 - - Bypass
- - https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
- - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
- - '[]GEOIP,CN'
+  - https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+  - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
+  - '[]GEOIP,CN'
 - - Others
- - '[]FINAL'
+  - '[]FINAL'
 CUSTOM_PROXY_GROUP:
 - name: Common
   type: select
