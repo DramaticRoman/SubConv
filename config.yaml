@@ -37,10 +37,13 @@ RULESET:
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Telegram.list
 - - G/M
   - https://raw.githubusercontent.com/DustinWin/ruleset_geodata/clash-ruleset/google-cn.list
+  - - G/M
   - https://ruleset.skk.moe/Clash/non_ip/microsoft.txt
 - - X/Meta
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
+  - - X/Meta
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list
+  - - X/Meta
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list
 - - Spotify
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
@@ -48,7 +51,9 @@ RULESET:
   - https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
 - - Bypass
   - https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+  - - Bypass
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
+  - - Bypass
   - '[]GEOIP,CN'
 - - Others
   - '[]FINAL'
