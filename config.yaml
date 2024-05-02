@@ -17,7 +17,7 @@ HEAD:
     - 'https://223.6.6.6/dns-query#h3=true'
     fallback:
     - 'https://8.8.8.8/dns-query#proxy&h3=true'
-   proxy-server-nameserver:
+    proxy-server-nameserver:
     - https://101.6.6.6:8443/dns-query
     fallback-filter:
       geoip: false
