@@ -74,7 +74,7 @@ CUSTOM_PROXY_GROUP:
   regex: 日本原生-IEPL
 - name: Others
   type: select 
-  prior:PROXY
+  prior: PROXY
 - name: Ads
   type: select 
   prior: REJECT
