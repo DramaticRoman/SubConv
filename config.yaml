@@ -38,7 +38,11 @@ RULESET:
 - - G/M
   - https://raw.githubusercontent.com/DustinWin/ruleset_geodata/clash-ruleset/google-cn.list
 - - G/M
-  - https://ruleset.skk.moe/Clash/non_ip/microsoft.txt
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Microsoft.list
+- - G/M
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Bing.list
+- - G/M
+  - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/OneDrive.list
 - - X/Meta
   - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list
 - - X/Meta
